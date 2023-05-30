@@ -23,7 +23,7 @@ Beachte dabei folgendes:
 In main3.dart befindet sich eine AppBar, die nicht dem entspricht was in der Aufnahme angezeigt wird. Baue die AppBar so um, damit sich ein gleiches/ähnliches Scrollverhalten aufweist.
 
 
-![](screenshots/aufgabe3/aufgabe3.MP4)
+![](screenshots/aufgabe3/aufgabe3.gif)
 
 Tipp: 
 - Nutze SliverAppBar
